@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-5bd8b1e4","path":"/blogs/uni-app/2022/uni-app.html","title":"uni-app-01","lang":"en-US","frontmatter":{"title":"uni-app-01","date":"2022/10/25","tags":["uni-app"],"categories":["uni-app"]},"excerpt":"","headers":[],"git":{},"filePathRelative":"blogs/uni-app/2022/uni-app.md"}');export{a as data};

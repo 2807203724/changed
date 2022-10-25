@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-449e80c0","path":"/blogs/Ajax/2022/Ajax.html","title":"Ajax-01","lang":"en-US","frontmatter":{"title":"Ajax-01","date":"2022/10/25","tags":["Ajax"],"categories":["Ajax"]},"excerpt":"","headers":[],"git":{},"filePathRelative":"blogs/Ajax/2022/Ajax.md"}');export{a as data};

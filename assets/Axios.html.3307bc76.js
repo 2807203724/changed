@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-547f3724","path":"/blogs/Axios/2022/Axios.html","title":"Axios-01","lang":"en-US","frontmatter":{"title":"Axios-01","date":"2022/10/25","tags":["Axios"],"categories":["Axios"]},"excerpt":"","headers":[],"git":{},"filePathRelative":"blogs/Axios/2022/Axios.md"}');export{t as data};
