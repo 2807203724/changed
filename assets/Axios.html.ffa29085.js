@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as t}from"./app.5b98769d.js";const c={},_=t("p",null,"Axios-01",-1),n=[_];function a(r,l){return o(),s("div",null,n)}const d=e(c,[["render",a],["__file","Axios.html.vue"]]);export{d as default};

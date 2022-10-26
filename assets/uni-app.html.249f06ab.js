@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,a as c}from"./app.5b98769d.js";const o={},_=c("p",null,"uni-app-01",-1),s=[_];function a(r,l){return t(),n("div",null,s)}const i=e(o,[["render",a],["__file","uni-app.html.vue"]]);export{i as default};
